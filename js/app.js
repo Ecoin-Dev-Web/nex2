@@ -30,3 +30,7 @@ var list2 = []
  console.log(list2)
  console.log(list3)
  console.log(list4)
+ console.log(list1)
+ console.log(list2)
+ console.log(list3)
+ console.log(list4)
